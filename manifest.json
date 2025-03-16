@@ -1,0 +1,10 @@
+{
+  "domain": "smarthomesec",
+  "name": "SmartHomeSec integration",
+  "config_flow": true,
+  "codeowners": ["@koying"],
+  "dependencies": [],
+  "iot_class": "cloud_push",
+  "requirements": [],
+  "version": "2024.5.1"
+}
